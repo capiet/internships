@@ -7,7 +7,7 @@
 [Тинькофф](https://fintech.tinkoff.ru/start/) | Java, Python, Go, DevOps, Android  | 3-6 месяцев | 20+
 [Ozon](https://job.ozon.ru/internships/) | Java, Go | — | 40
 [Альфа-Банк](https://alfabanklive.ru/ichoosealfa) | — | — | — 
-[Kaspersky](https://safeboard.kaspersky.ru/) | Python, JavaScript, Go, Frontend | — | 25+
+[Kaspersky](https://safeboard.kaspersky.ru/) | Python, JavaScript, Go, DevOps, Frontend | — | 25+
 [Яндекс](https://yandex.ru/yaintern/) | Java, Python, Go, DevOps, Android, Frontend | 3-6 месяцев | 20+
 [Авито](https://start.avito.ru/tech) | Go, Android, Frontend | 6 месяцев | 25+
 [МТС](https://job.mts.ru/internship) | Frontend | — | 20+
