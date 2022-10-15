@@ -15,4 +15,4 @@
 [ДОМ.РФ](https://xn--d1aqf.xn--p1ai/career/internship/) | — | 4 месяца | 30+
 [РСХБ](https://rshbdigital.ru/stage/) | Разработка(?), DevOps | от 3 месяцев | 20+
 [Ростелеком](https://rostelecomcareer.tilda.ws/#program) | — | 1-3 месяца | 20+
-[Ростелеком Солар](https://rt-solar.ru/start/) | — | — | —
+[Ростелеком Солар](https://rt-solar.ru/start/) | Java, DevOps, Frontend | — | —
